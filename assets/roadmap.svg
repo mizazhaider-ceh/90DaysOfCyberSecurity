@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" font-family="Sora, 'Segoe UI', sans-serif">
+  <defs>
+    <linearGradient id="rg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7C3AED"/><stop offset="1" stop-color="#DB2777"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="380" rx="24" fill="#0C0A16"/>
+  <text x="60" y="62" fill="#F4F1FA" font-size="30" font-weight="800">The 90-day roadmap</text>
+  <text x="60" y="92" fill="#a79fc0" font-size="16">Ten phases. Click through the plan in order, check every box.</text>
+  <path d="M80,170 H1120" stroke="#262040" stroke-width="6" stroke-linecap="round"/>
+  <path d="M80,170 H1120" stroke="url(#rg)" stroke-width="6" stroke-linecap="round" opacity="0.85"/>
+  <g text-anchor="middle">
+    <g><circle cx="80" cy="170" r="17" fill="#0C0A16" stroke="#7C3AED" stroke-width="4"/><text x="80" y="216" fill="#F4F1FA" font-size="15" font-weight="700">Networking</text><text x="80" y="238" fill="#F59E0B" font-size="13" font-family="monospace">1-7</text></g>
+    <g><circle cx="195" cy="170" r="17" fill="#0C0A16" stroke="#DB2777" stroke-width="4"/><text x="195" y="216" fill="#F4F1FA" font-size="15" font-weight="700">Security</text><text x="195" y="238" fill="#F59E0B" font-size="13" font-family="monospace">8-14</text></g>
+    <g><circle cx="310" cy="170" r="17" fill="#0C0A16" stroke="#0EA5E9" stroke-width="4"/><text x="310" y="216" fill="#F4F1FA" font-size="15" font-weight="700">Linux</text><text x="310" y="238" fill="#F59E0B" font-size="13" font-family="monospace">15-28</text></g>
+    <g><circle cx="425" cy="170" r="17" fill="#0C0A16" stroke="#10B981" stroke-width="4"/><text x="425" y="216" fill="#F4F1FA" font-size="15" font-weight="700">Python</text><text x="425" y="238" fill="#F59E0B" font-size="13" font-family="monospace">29-42</text></g>
+    <g><circle cx="540" cy="170" r="22" fill="#DB2777" stroke="#fff" stroke-width="3"/><path d="M540,158 l3.5,7.2 7.9,1.1 -5.7,5.6 1.3,7.9 -7,-3.7 -7,3.7 1.3,-7.9 -5.7,-5.6 7.9,-1.1 z" fill="#fff"/><text x="540" y="216" fill="#F4F1FA" font-size="15" font-weight="700">Web hacking</text><text x="540" y="238" fill="#F59E0B" font-size="13" font-family="monospace">43-56</text></g>
+    <g><circle cx="660" cy="170" r="17" fill="#0C0A16" stroke="#7C3AED" stroke-width="4"/><text x="660" y="216" fill="#F4F1FA" font-size="15" font-weight="700">Git</text><text x="660" y="238" fill="#F59E0B" font-size="13" font-family="monospace">57-63</text></g>
+    <g><circle cx="775" cy="170" r="17" fill="#0C0A16" stroke="#DB2777" stroke-width="4"/><text x="775" y="216" fill="#F4F1FA" font-size="15" font-weight="700">ELK/SIEM</text><text x="775" y="238" fill="#F59E0B" font-size="13" font-family="monospace">64-70</text></g>
+    <g><circle cx="890" cy="170" r="17" fill="#0C0A16" stroke="#0EA5E9" stroke-width="4"/><text x="890" y="216" fill="#F4F1FA" font-size="15" font-weight="700">Cloud</text><text x="890" y="238" fill="#F59E0B" font-size="13" font-family="monospace">71-77</text></g>
+    <g><circle cx="1005" cy="170" r="17" fill="#0C0A16" stroke="#10B981" stroke-width="4"/><text x="1005" y="216" fill="#F4F1FA" font-size="15" font-weight="700">CTF</text><text x="1005" y="238" fill="#F59E0B" font-size="13" font-family="monospace">78-84</text></g>
+    <g><circle cx="1120" cy="170" r="17" fill="#0C0A16" stroke="#F59E0B" stroke-width="4"/><text x="1120" y="216" fill="#F4F1FA" font-size="15" font-weight="700">Capstone</text><text x="1120" y="238" fill="#F59E0B" font-size="13" font-family="monospace">85-90</text></g>
+  </g>
+  <g font-size="14" fill="#a79fc0">
+    <rect x="60" y="272" width="330" height="52" rx="12" fill="#161326"/>
+    <text x="80" y="296" fill="#10B981" font-weight="700">Hands-on every day</text>
+    <text x="80" y="316" fill="#a79fc0">Learn / Do / Done on all 90 days</text>
+    <rect x="410" y="272" width="330" height="52" rx="12" fill="#161326"/>
+    <text x="430" y="296" fill="#DB2777" font-weight="700">Real lab, not screenshots</text>
+    <text x="430" y="316" fill="#a79fc0">PenTrix VulnLab in phases 5 + 10</text>
+    <rect x="760" y="272" width="380" height="52" rx="12" fill="#161326"/>
+    <text x="780" y="296" fill="#0EA5E9" font-weight="700">$0 total cost</text>
+    <text x="780" y="316" fill="#a79fc0">Every tool free, 1-2 hours a day</text>
+  </g>
+</svg>

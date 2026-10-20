@@ -13,6 +13,10 @@
 
 > This plan has opinions. Most roadmaps are link lists. This one is a workout program: networking before hacking, Linux before Python, web fundamentals before Burp, and a real vulnerable lab (not screenshots of one) when it is time to attack. Follow it in order and you will finish with skills you can demonstrate, not just videos you watched.
 
+<p align="center"><a href="https://mizazhaider-ceh.github.io/90DaysOfCyberSecurity/"><b>Explore the interactive site</b></a></p>
+
+![The 90-day roadmap](assets/roadmap.svg)
+
 ## Contents
 
 - [How to use this plan](#how-to-use-this-plan)
