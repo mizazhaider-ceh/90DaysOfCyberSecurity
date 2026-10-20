@@ -1,0 +1,18 @@
+# Land the Job
+
+You have spent 90 days building real cybersecurity skills, labs, and projects. Now it is time to turn that work into a job. These three days give you a clear plan: find the right roles, apply well, and walk into interviews ready.
+
+## Day 93: Where to Apply
+- **Learn:** Most junior security jobs are posted on LinkedIn Jobs, company career pages, and free cybersecurity job boards. You want internships and junior SOC analyst roles, and you need a simple spreadsheet to track every application in one place.
+- **Do:** Set up your job search base. (1) Create a spreadsheet named "Job Applications" with these columns: Company, Role, Link, Date applied, Status, Follow-up date. (2) Go to LinkedIn Jobs (https://www.linkedin.com) and turn on job alerts for "SOC Analyst", "Junior SOC Analyst", and "Security Intern". (3) Pick 5 companies you like (banks, hospitals, tech firms, or local security companies) and bookmark their career pages to check every week. (4) Find 10 junior SOC roles or security internships across LinkedIn Jobs, those career pages, and one free cybersecurity job board, then add all 10 to your tracker.
+- [ ] Done: Tracker holds 10 saved roles, 3 job alerts are on, and 5 company career pages are bookmarked.
+
+## Day 94: How to Apply Well
+- **Learn:** Hiring managers scan a resume for only a few seconds, so matching your resume words to the job posting matters more than a long list of skills. A short cover note, real networking, and a clear 30-second introduction make you stand out.
+- **Do:** Apply to one saved role the right way. (1) Copy 3 to 5 keywords from the job posting and rewrite 3 resume bullet points to use them, adding numbers or results when you can. (2) Write a 5 to 8 sentence cover note: which role you want, why you fit, one project that proves it, and a polite ask for a chat. (3) On LinkedIn, leave thoughtful 2 to 3 sentence comments on 2 posts from security professionals (say what you learned or ask a real question). (4) Send 3 polite connection requests with a short note asking for a 15-minute informational chat about their role. (5) Write your 30-second intro (who you are, what you can do, what you are looking for) and say it out loud 5 times.
+- [ ] Done: One tailored application sent, 2 thoughtful comments posted, 3 outreach messages sent, and my 30-second intro rehearsed.
+
+## Day 95: Interview Prep and Final Checklist
+- **Learn:** Junior interviews mix basic technical questions with behavioral ones about how you think and learn. Your strongest answer is always a lab you actually solved, explained step by step, so practice telling that story out loud.
+- **Do:** Prepare like it is real. (1) Write short answers to 5 common technical questions: what happens when you visit a website, TCP vs UDP, what a hash is and why it matters, what you would do first if a laptop is infected, and explain ports to a non-technical person. (2) Answer 3 behavioral questions with the STAR method (Situation, Task, Action, Result): tell me about yourself, a time you solved a hard problem, and why you want this role. (3) Record a 3-minute voice memo walking through one lab you solved: the goal, your steps, and the result. (4) Prepare 4 questions for the interviewer: what a normal day looks like, which tools the team uses, how juniors get mentored, and what the next steps are. (5) Run the final checklist: resume finished, GitHub clean with a README on each project, LinkedIn profile updated (headline, skills, projects listed), and 2 to 3 projects you can demo on screen share.
+- [ ] Done: 8 answers written, lab walkthrough rehearsed, 4 questions ready, and the final checklist complete.
